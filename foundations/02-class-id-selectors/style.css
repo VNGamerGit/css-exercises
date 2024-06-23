@@ -1,7 +1,7 @@
 /* this stylesheet applies CSS styles for elements in index.html (class + ID) */
 .odd {
     background-color: rgb(255, 182, 193);
-    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #div1 {
     color: rgb(0, 0, 255);
