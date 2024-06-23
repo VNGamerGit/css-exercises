@@ -1,0 +1,8 @@
+/* this stylesheet provides external CSS style for index.html */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
